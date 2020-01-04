@@ -4,5 +4,6 @@ let main = document.querySelector("main#main")
 
     let newHeader = document.createElement('h1')
     newHeader.id = "victory"
-    newHeader.innerHTML = "Micah is the champion"
+    newHeader.innerHTML = "Johnson is the champion"
     document.body.appendChild(newHeader)
+

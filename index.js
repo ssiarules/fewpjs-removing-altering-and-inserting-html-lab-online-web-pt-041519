@@ -1,2 +1,3 @@
 // Write your code here!
-main.removeChild(main.querySelector('main:main'))
+let main = document.querySelector('main#main')
+

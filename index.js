@@ -6,4 +6,3 @@ let main = document.querySelector("main#main")
     newHeader.id = "victory"
     newHeader.innerHTML = "Johnson is the champion"
     document.body.appendChild(newHeader)
-
